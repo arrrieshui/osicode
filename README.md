@@ -1,4 +1,3 @@
-Berikut adalah contoh deskripsi proyek coding untuk bagian OSIS yang bisa digunakan di GitHub:
 
 ---
 
